@@ -282,10 +282,8 @@ aws-automation-serverless-event-driven-app/
 │   └── README.md
 │
 ├── troubleshooting/
-│   └── README.md
-│
-└── docs/
-    └── README.md
+   └── README.md
+
 ```
 
 Additional screenshot subdirectories can be added as evidence is collected.
