@@ -1,0 +1,1 @@
+mkdir -p screenshots/{01-iam,02-s3,03-lambda,04-dynamodb,05-sns,06-sqs,07-api-gateway,08-eventbridge,09-systems-manager,10-cloudwatch,11-secrets-manager} && touch screenshots/README.md && git add screenshots && git commit -m "Create screenshot directory structure" && git push origin main
